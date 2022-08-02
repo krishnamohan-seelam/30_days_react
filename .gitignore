@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/bower_components
 /.pnp
 .pnp.js
 
@@ -21,3 +22,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*

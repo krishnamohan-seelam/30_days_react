@@ -1,0 +1,16 @@
+.footer-wrapper {
+  width: 85%;
+  margin: auto;
+}
+.callout {
+  display: inline-block;
+  flex-flow: row wrap;
+  top: 20vh;
+  left: 5%;
+  width: 80%;
+  bottom: 20vh;
+  padding: 1rem;
+  border-radius: 14px;
+  flex-basis: auto;
+  z-index: 30;
+}
